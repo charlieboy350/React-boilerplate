@@ -1,0 +1,15 @@
+{
+    "short_name":"Mobile5050",
+    "name":"Mobile5050",
+    "icons":[
+        {
+            "src":"/images/logo.png",
+            "type":"image/png",
+            "sizes":"1024x1024"
+        }
+    ],
+    "start_url": "https://mobile5050-dev.web.app",
+    "display": "fullscreen",
+    "theme_color":"#ffffff",
+    "background_color": "#181A28"
+}
